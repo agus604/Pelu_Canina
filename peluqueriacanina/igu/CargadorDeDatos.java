@@ -167,8 +167,7 @@ public class CargadorDeDatos extends javax.swing.JFrame {
                   }
             });
 
-            jLabel11.setIcon(new javax.swing.ImageIcon("C:\\Users\\Usuario\\Desktop\\PeluqueriaCanina\\src\\descarga.png")); // NOI18N
-            jLabel11.setText("jLabel11");
+            jLabel11.setIcon(new javax.swing.ImageIcon("C:\\agustin\\institutoIMB\\programacion\\java\\PeluqueriaCanina\\src\\descarga.png")); // NOI18N
 
             javax.swing.GroupLayout jPanel3Layout = new javax.swing.GroupLayout(jPanel3);
             jPanel3.setLayout(jPanel3Layout);
@@ -181,7 +180,7 @@ public class CargadorDeDatos extends javax.swing.JFrame {
             jPanel3Layout.setVerticalGroup(
                   jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                   .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel3Layout.createSequentialGroup()
-                        .addContainerGap(16, Short.MAX_VALUE)
+                        .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                         .addComponent(jLabel11)
                         .addContainerGap())
             );

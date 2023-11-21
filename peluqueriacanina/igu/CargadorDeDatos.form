@@ -331,7 +331,7 @@
             <DimensionLayout dim="1">
               <Group type="103" groupAlignment="0" attributes="0">
                   <Group type="102" alignment="1" attributes="0">
-                      <EmptySpace pref="16" max="32767" attributes="0"/>
+                      <EmptySpace max="32767" attributes="0"/>
                       <Component id="jLabel11" min="-2" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
                   </Group>
@@ -342,9 +342,8 @@
             <Component class="javax.swing.JLabel" name="jLabel11">
               <Properties>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="C:\Users\Usuario\Desktop\PeluqueriaCanina\src\descarga.png"/>
+                  <Image iconType="2" name="C:\agustin\institutoIMB\programacion\java\PeluqueriaCanina\src\descarga.png"/>
                 </Property>
-                <Property name="text" type="java.lang.String" value="jLabel11"/>
               </Properties>
             </Component>
           </SubComponents>
